@@ -38,6 +38,7 @@
 
 .content-section {
     display: flex;
+    flex-direction: row;
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
@@ -64,6 +65,7 @@
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+    flex-direction: row;
 }
 
 .content {
